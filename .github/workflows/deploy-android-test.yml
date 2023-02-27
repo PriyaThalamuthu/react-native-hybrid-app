@@ -1,7 +1,7 @@
 name: Build Release Android APK
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "master" ]
 
 jobs:
   Build-Release-Android-APK:
